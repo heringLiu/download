@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://10.10.10.90:8090/jzgzIosApp/iosDownLodApp</string>
+					<string>http://10.10.10.90/staff_service/jzgzIosApp/iosDownLodApp</string>
 				</dict>
 				<dict>
 					<key>kind</key>
